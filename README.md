@@ -9,7 +9,7 @@ The 'Nexsign Demo Mobile' is the renewed demo application of Samsung SDS Nexsign
 ## Release Notes
 ### Version 2.1.1-mobile (Build number 19111501)
 * Redesign and renew UI/UX
-* Provide four different scenarios to experience Nexsign authentication
+* Provide four different scenarios for the experience of Nexsign authentication
   * e-Bank
   * m-Office
   * e-Commerce
